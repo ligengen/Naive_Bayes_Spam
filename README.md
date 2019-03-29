@@ -6,4 +6,4 @@ Tsinghua Introduction to machine learning proj.
 
 * process.py文件的main函数中的GetBagOfWords函数的三个参数分别是：测试集的起始目录，测试集终止目录，sampling_rate，需要保证nb.py里的main函数的ss和ee两个值和"测试集的起始目录"以及“测试集的终止目录”相同。
 
-* 实验用了five-fold。因为太懒所以没有shuffule。实验所有的要求都在Exp1NaiveBayesReadme里写了，数据集也可以在那里下载
+* 实验用了five-fold。因为太懒所以没有shuffle。实验所有的要求都在Exp1NaiveBayesReadme里写了，数据集也可以在那里下载
